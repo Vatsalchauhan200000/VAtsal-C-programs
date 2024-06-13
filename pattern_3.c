@@ -42,18 +42,18 @@ main(){
        for(int b=9;b>=a;b--){
             
             if(a==4 && b==5){
-                printf(" p");
+                printf(" j");
            }
            else if(a==4 && b==6){
-                printf(" a");
+                printf(" u");
             
            }
            else if(a==4 && b==7){
-                printf(" w");
+                printf(" n");
 
            }
            else if(a==4 && b==8){
-                printf(" s");
+                printf(" A");
            }
            else{
                 printf(" *");
