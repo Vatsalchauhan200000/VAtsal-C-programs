@@ -14,7 +14,7 @@ main(){
         printf("%d is negative",a);
 
     }else if(a==0){
-        printf("%d is- neutral",a);
+        printf("%d is neutral",a);
     }
 
 }
