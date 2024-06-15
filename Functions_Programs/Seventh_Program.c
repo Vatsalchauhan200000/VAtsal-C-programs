@@ -19,5 +19,5 @@ void prime(int a){
 
 int main(){
 
-prime(i%1==0);
+prime(10);
 }
