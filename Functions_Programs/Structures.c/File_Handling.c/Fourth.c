@@ -4,7 +4,7 @@ void main(){
 
     FILE *ptr;
 
-    ptr = fopen("/home/arpit-parekh/c_files/my_file.txt", "r");
+    ptr = fopen("/Vatsal.c/C_file.txt", "r");
 
     if (ptr == NULL)
     {
